@@ -40,3 +40,17 @@ C:\Users\sergi\OneDrive\Escritorio\Proyectos\BackAPIDS\Back-DigitalServices\obj\
 C:\Users\sergi\OneDrive\Escritorio\Proyectos\BackAPIDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.RazorTargetAssemblyInfo.cache
 C:\Users\sergi\OneDrive\Escritorio\Proyectos\BackAPIDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.dll
 C:\Users\sergi\OneDrive\Escritorio\Proyectos\BackAPIDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.pdb
+C:\MyKitchen\BackDS\Back-DigitalServices\bin\Debug\netcoreapp2.2\digital_services.deps.json
+C:\MyKitchen\BackDS\Back-DigitalServices\bin\Debug\netcoreapp2.2\digital_services.runtimeconfig.json
+C:\MyKitchen\BackDS\Back-DigitalServices\bin\Debug\netcoreapp2.2\digital_services.runtimeconfig.dev.json
+C:\MyKitchen\BackDS\Back-DigitalServices\bin\Debug\netcoreapp2.2\digital_services.dll
+C:\MyKitchen\BackDS\Back-DigitalServices\bin\Debug\netcoreapp2.2\digital_services.pdb
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.csprojAssemblyReference.cache
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.csproj.CoreCompileInputs.cache
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.RazorAssemblyInfo.cache
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.RazorAssemblyInfo.cs
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.AssemblyInfoInputs.cache
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.AssemblyInfo.cs
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.RazorTargetAssemblyInfo.cache
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.dll
+C:\MyKitchen\BackDS\Back-DigitalServices\obj\Debug\netcoreapp2.2\digital_services.pdb
